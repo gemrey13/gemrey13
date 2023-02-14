@@ -15,6 +15,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=gemrey13&style=flat-square&color=blue" alt="Views"/>
 </div>
+<hr>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600"/>
 </div>
