@@ -32,3 +32,12 @@ Through this repository,
 - :zap:Connect with the community to learn and grow together. 
 
 Whether you are a seasoned developer or just starting out, I hope that my code and resources can provide valuable insights and inspiration for your own learning journey.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" alt="Chrome" width="40" height="40">&nbsp;
+
+  
+</div>
