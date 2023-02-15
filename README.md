@@ -53,8 +53,16 @@ Whether you are a seasoned developer or just starting out, I hope that my code a
 ---
 
 ### :fire: My Stats :
-| :--- | ---: |
-| [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gemrey13&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemrey13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) |
+<table>
+  <thead>
+    <tr>
+      <td>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gemrey13&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)</td>
+      <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemrey13&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</td>
+    </tr>
+  </thead>
+</table>
+
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gemrey13&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
