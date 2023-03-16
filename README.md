@@ -34,9 +34,11 @@ Through this repository,
 
 Whether you are a seasoned developer or just starting out, I hope that my code and resources can provide valuable insights and inspiration for your own learning journey.
 
+
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+
+### :hammer_and_wrench: Programming Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" alt="Chrome" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="Css3" width="40" height="40">&nbsp;
