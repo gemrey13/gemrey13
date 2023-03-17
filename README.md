@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me :
-Welcome to my GitHub repository, where I am sharing my journey of learning web development and specifically, the Django framework. As a passionate learner and aspiring web developer, I am constantly exploring new technologies and techniques to improve my skills and build innovative web applications.
+Welcome to my GitHub repository, where I am sharing my journey of learning web development, python, php and specifically, the Django framework. As a passionate learner and aspiring web developer, I am constantly exploring new technologies and techniques to improve my skills and build innovative web applications.
 
 Through this repository, 
 - :mailbox: I aim to document my progress.
@@ -34,9 +34,7 @@ Through this repository,
 
 Whether you are a seasoned developer or just starting out, I hope that my code and resources can provide valuable insights and inspiration for your own learning journey.
 
-
 ---
-
 
 ### :hammer_and_wrench: Programming Languages and Tools :
 <div>
@@ -51,7 +49,6 @@ Whether you are a seasoned developer or just starting out, I hope that my code a
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu" width="40" height="40">&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="VScode" width="40" height="40">&nbsp;
 </div>
-
 
 ---
 
