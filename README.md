@@ -33,7 +33,6 @@ Through this repository,
 
 Whether you are a seasoned developer or just starting out, I hope that my code and resources can provide valuable insights and inspiration for your own learning journey.
 
-
 ---
 
 ### :hammer_and_wrench: Programming Languages and Tools :
