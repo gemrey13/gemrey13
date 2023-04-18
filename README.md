@@ -36,6 +36,7 @@ Whether you are a seasoned developer or just starting out, I hope that my code a
 
 ---
 
+
 ### :hammer_and_wrench: Programming Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" alt="Chrome" width="40" height="40">&nbsp;
