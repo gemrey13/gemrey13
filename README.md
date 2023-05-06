@@ -25,6 +25,7 @@
 ---
 
 
+
 ### :man_technologist: About Me :
 Welcome to my GitHub repository, where I am sharing my journey of learning web development, python, php, mysql and specifically, the Django framework. As a passionate learner and aspiring web developer, I am constantly exploring new technologies and techniques to improve my skills and build innovative web applications.
 
