@@ -12,7 +12,6 @@
       <img src="https://img.shields.io/badge/Tiktok-blue?style=for-the-badge&logo=tiktok&logoColor=white" alt="Twitter Tiktok"/>
     </a>
   </div>
-
   
   <img src="https://komarev.com/ghpvc/?username=gemrey13&style=flat-square&color=blue" alt="Views"/>
 </div>
