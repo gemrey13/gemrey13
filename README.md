@@ -4,7 +4,6 @@
     <a href="https://web.facebook.com/Gem.Rey13/?_rdc=1&_rdr">
       <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"/>
     </a>
-    
     <a href="https://www.instagram.com/gemrey.ranola/">
       <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
     </a>
