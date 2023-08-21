@@ -29,7 +29,7 @@ Welcome to my GitHub repository, where I am sharing my journey of learning web d
 Through this repository, 
 - :mailbox: I aim to document my progress.
 - :heavy_check_mark: Share my projects.
-- :zap:Connect with the community to learn and grow together. 
+- :zap: Connect with the community to learn and grow together. 
 
 Whether you are a seasoned developer or just starting out, I hope that my code and resources can provide valuable insights and inspiration for your own learning journey.
 
