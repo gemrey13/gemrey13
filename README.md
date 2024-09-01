@@ -1,7 +1,5 @@
 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
-
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 # 💫 About Me:
 Hey, hey, hey! Welcome to my GitHub repository, where I am sharing my journey of learning web development, python, php, mysql and specifically, the Django framework. As a passionate learner and aspiring web developer, I am constantly exploring new technologies and techniques to improve my skills and build innovative web applications.<br><br>Through this repository,<br><br>📫 I aim to document my progress.<br>✔️ Share my projects.<br>⚡ Connect with the community to learn and grow together.<br>Whether you are a seasoned developer or just starting out, I hope that my code and resources can provide valuable insights and inspiration for your own learning journey.
